@@ -94,13 +94,16 @@ fun_fact: "I believe good code is written for humans first, computers second."
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=imsynuyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SyNguyen's GitHub Stats" width="90%" />
+
+<br/><br/>
+
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imsynuyn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="90%" />
 
-<br/>
+<br/><br/>
 
 <img src="https://streak-stats.demolab.com/?user=imsynuyn&theme=tokyonight&hide_border=true" alt="SyNguyen's Streak Stats" width="90%" />
 
-<br/>
+<br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsynuyn&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 
