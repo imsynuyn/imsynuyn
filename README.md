@@ -9,6 +9,7 @@
 <p align="center">
   <a href="mailto:nguyenynguyen24092005@gmail.com"><img src="https://img.shields.io/badge/Email-7AA2F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://github.com/imsynuyn"><img src="https://img.shields.io/badge/GitHub-1A1B26?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/synguyen.nguyen.773" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
   <img src="https://komarev.com/ghpvc/?username=imsynuyn&color=7aa2f7&style=for-the-badge" alt="Views"/>
 </p>
 
