@@ -48,9 +48,7 @@ fun_fact: "I believe good code is written for humans first, computers second."
 
 ## 🛠️ Tech Stack & Tools
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **💻 Languages**
 
@@ -58,6 +56,8 @@ fun_fact: "I believe good code is written for humans first, computers second."
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+
+<br/><br/>
 
 **🎨 Frontend & Mobile**
 
@@ -68,14 +68,15 @@ fun_fact: "I believe good code is written for humans first, computers second."
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 
-</td>
-<td valign="top" width="50%">
+<br/><br/>
 
 **⚙️ Backend & Databases**
 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
 <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+
+<br/><br/>
 
 **🧰 Tools & Platforms**
 
@@ -84,9 +85,7 @@ fun_fact: "I believe good code is written for humans first, computers second."
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
 
-</td>
-</tr>
-</table>
+</div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
@@ -94,20 +93,14 @@ fun_fact: "I believe good code is written for humans first, computers second."
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api?username=imsynuyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SyNguyen's GitHub Stats" height="185px" />
-</td>
-<td align="center" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imsynuyn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="185px" />
-</td>
-</tr>
-</table>
+<img src="https://github-stats-extended.vercel.app/api?username=imsynuyn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="SyNguyen's GitHub Stats" width="90%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=imsynuyn&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="90%" />
+
+<br/>
 
 <img src="https://streak-stats.demolab.com/?user=imsynuyn&theme=tokyonight&hide_border=true" alt="SyNguyen's Streak Stats" width="90%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=imsynuyn&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="90%"/>
 
